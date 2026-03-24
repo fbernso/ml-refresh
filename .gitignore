@@ -1,0 +1,28 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuelle Umgebung
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Daten (falls lokal gespeichert)
+data/
+*.csv
+*.tsv
+*.json
+*.pkl
+
+# IDE/Editor Dateien
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
